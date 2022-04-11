@@ -9,9 +9,9 @@
     padding: 0px;
 }
 :root {
-    --cor01: #1CA5B3;
-    --cor02: #96F5FF;
-    --cor03: #7CF0FC;
+    --cor01: #04707c;
+    --cor02: #5eb0b9;
+    --cor03: #67d1dd;
     --cor04: #B06833;
     --cor05: #FCB27C;
 
@@ -43,6 +43,12 @@ header > p {
 }
 nav {
     background-color: var(--cor02);
+}
+
+nav > a {
+    color: grey;
+    text-decoration: none;
+    
 }
 
 main {
